@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    margin-left: 300px;
+    margin-right:100px;
+    width:50%;
+}
+hr{
+    width:80%;
+    margin-left:30px;
+    margin-bottom:20px;
+}
+
+.container-1{
+    width:30%;
+    height: 100%;
+    background-color: rgba(42, 46, 46, 0.9);
+    float: left;
+}
+.middle{
+    margin: 25px;
+    color:white;
+}
+.name{
+padding-bottom: 35px;
+color:white;
+}
+
+.about{
+    padding-bottom:40px;
+}
+
+.about h3{
+    text-align: center;
+    padding-bottom:10px;
+}
+
+.about p{
+    text-align: justify;
+    line-height: 1.2em;
+}
+.name h1{
+    padding-top: 30px;
+    text-align: center;
+}
+.name h3{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 1.2em;
+}
+.name img{
+    width: 100%;
+    height:200px
+}
+
+.contact {
+    padding-bottom:40px;
+}
+
+.contact h3{
+    text-align: center;
+    padding-bottom:10px;
+}
+
+.location i{
+     float:left;
+     padding-left:20px;   
+}
+.location p{
+    padding-left:48px;
+    padding-bottom: 15px;
+}
+
+.call i{
+    float:left;
+    padding-left:20px;
+}
+
+.call p{
+    padding-left:48px;
+    padding-bottom: 15px;
+}
+
+.mail i{
+    float:left;
+    padding-left:20px;
+}
+
+.mail p{
+    padding-left:48px;
+}
+
+.follow-me h3{
+    text-align: center;
+    padding-bottom:10px;
+}
+
+.twitter{
+    padding-bottom: 30px;
+    padding-left:40px;
+}
+
+.facebook{
+    padding-bottom:30px;
+    padding-left: 40px;
+
+}
+.container-2{
+    background-color: rgba(157, 224, 221, 0.911);
+    width: 68%;
+    height: 100%;
+    float: left;
+    position: relative;
+    
+}
+
+.education {
+    position: absolute;
+    top:80px;
+}
+
+.education i{
+    float:left;
+    padding-left: 40px;
+    
+}
+
+.education h3{
+    padding-left: 80px;
+}
+
+.hor{
+    width:90%;
+    margin-top:10px;
+    margin-left:80px; 
+}
+
+.timeline{
+    float:left;
+    padding-right:60px;
+    padding-left: 50px;
+}
+
+.timeline p{
+    padding-bottom:60px;
+}
+
+.schooling {
+    float:right;
+}
+
+.schooling p{
+    padding-bottom:60px;
+}
+
+.skills{
+    position: absolute;
+    top:420px;
+    left:60px;
+}
+
+.skills h3{
+    padding-left:18px;
+    padding-bottom:10px;
+}
+
+.skillname p {
+    margin-bottom:20px;
+    width:50%;
+}
+.skillname{
+    float:left;
+}
+
+.prog{
+    
+    width:50%;
+    float:left;
+    margin-left:30px;
+}
+
+.prog progress{
+    padding-bottom:25px;
+    margin-bottom:15px;
+}
+.horizontal {
+    width:480px;
+}
+
+.references{
+    position:absolute;
+    top:830px;
+    margin-left: 50px;
+}
+
+.references h3{
+    margin-left:70px;
+    margin-bottom: 20px;
+}
+.ref1{
+    width:50%;
+    float:left;
+    text-transform: capitalize;
+}
+.ref2{
+    width:50%;
+    float:right;
+    text-transform: capitalize;
+}
+
+.horizontal2{
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+
+.ref12{
+    margin-bottom: 10px;
+}
